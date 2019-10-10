@@ -1,6 +1,6 @@
 # Recurrent Registration Neural Networks for Deformable Image Registration
 
-Code for the [paper](https://arxiv.org/abs/1906.09988) *Recurrent Registration Neural Networks for Deformable Image Registration*.
+Code for the [Sandkuehler et al.](https://arxiv.org/abs/1906.09988) *Recurrent Registration Neural Networks for Deformable Image Registration*.
 
 ## Paper Abstract
 
